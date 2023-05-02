@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://github.com/fiqihalfito/REST-Countries-API-with-color-theme-switcher)
+- Live Site URL: [here](https://rest-countries-api-with-color-theme-switcher-mocha.vercel.app/)
 
 ## My process
 
